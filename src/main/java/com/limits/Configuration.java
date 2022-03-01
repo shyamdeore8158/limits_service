@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.limitsservice;
+package com.limits;
 
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
